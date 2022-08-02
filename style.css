@@ -16,7 +16,7 @@ canvas{
     border-radius: 20px;
     animation-name:example;
     animation-duration: 4s ;
-    margin-top: 80px;
+    margin-top: 100px;
     animation-iteration-count: infinite;
 }
 @keyframes example{
